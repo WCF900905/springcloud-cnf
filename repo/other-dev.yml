@@ -1,0 +1,4 @@
+foo: foo123
+spring:
+  rabbitmq:
+    port: 7777
